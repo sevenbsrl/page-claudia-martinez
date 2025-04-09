@@ -1,0 +1,156 @@
+{
+    "Header": {
+        "title": "Bienvenido",
+        "paragraph": "Un lugar para quedarse y nunca irse... Un lugar para quedarse y nunca irse...Un lugar para quedarse y nunca irse...Un lugar para quedarse y nunca irse...Un lugar para quedarse y nunca irse...Un lugar para quedarse y nunca irse...Un lugar para quedarse y nunca irse...Un lugar para quedarse y nunca irse...v"
+    },
+    "About": {
+        "paragraph": "Practica yoga al aire libre Traslada tus sesiones de yoga a un espacio abierto y descubrirás cómo aumenta tu bienestar físico y emocional. Absorbe la energía de la naturaleza y renuévate con cada asana (postura) que realices. El lugar que elegimos para la práctica es Candelaria, olvídate de los auriculares y de hacer una selección musical, disfrutarás de todas las melodías que la naturaleza tiene que ofrecerte: el canto de los pájaros, el sonido del viento y de las hojas al moverse. Vitalina Yoga campo te ofrece la experiencia de realizar la practica de Yoga y sentir el aire fresco, incluso el murmullo de la gente al pasar o un coche inesperado son bienvenidos a esta selección de “música ambiental”.",
+        "Why": ["Responsabilidad", "Profesionalismo", "Pasión", "Compromiso"],
+        "Why2": [
+            "Humildad",
+            "Equilibrio",
+            "Acompañamiento",
+            "Logro de objetivos"
+        ]
+    },
+    "News": [
+        {
+            "title": "",
+            "largeImage": "img/news/01.jpeg",
+            "smallImage": "img/news/01.jpeg"
+        },
+        {
+            "title": "",
+            "largeImage": "img/news/02.jpeg",
+            "smallImage": "img/news/02.jpeg"
+        },
+        {
+            "title": "",
+            "largeImage": "img/news/03.jpeg",
+            "smallImage": "img/news/03.jpeg"
+        }
+    ],
+    "Gallery": [
+        {
+            "title": "",
+            "largeImage": "/img/gallery/g1.jpeg",
+            "smallImage": "img/gallery/g1.jpeg"
+        },
+        {
+            "title": "",
+            "largeImage": "img/gallery/g2.jpeg",
+            "smallImage": "img/gallery/g2.jpeg"
+        },
+        {
+            "title": "",
+            "largeImage": "img/gallery/g3.jpeg",
+            "smallImage": "img/gallery/g3.jpeg"
+        },
+        {
+            "title": "",
+            "largeImage": "img/gallery/g4.jpeg",
+            "smallImage": "img/gallery/g4.jpeg"
+        },
+        {
+            "title": "",
+            "largeImage": "img/gallery/g5.jpeg",
+            "smallImage": "img/gallery/g5.jpeg"
+        },
+        {
+            "title": "",
+            "largeImage": "img/gallery/g6.jpeg",
+            "smallImage": "img/gallery/g6.jpeg"
+        },
+
+        {
+            "title": "",
+            "largeImage": "img/gallery/g8.jpeg",
+            "smallImage": "img/gallery/g8.jpeg"
+        },
+
+        {
+            "title": "",
+            "largeImage": "img/gallery/g11.jpeg",
+            "smallImage": "img/gallery/g11.jpeg"
+        },
+
+        {
+            "title": "",
+            "largeImage": "img/gallery/g12.jpeg",
+            "smallImage": "img/gallery/g12.jpeg"
+        }
+    ],
+    "Services": [
+        {
+            "icon": "img/icons/1.svg",
+            "name": "Evolucionando al estrés :Mindfulness.",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\""
+        },
+        {
+            "icon": "img/icons/2.svg",
+            "name": "Reiki .Títulos oficiales de la Alianza Argentina de Reikistas",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\""
+        },
+        {
+            "icon": "img/icons/3.svg",
+            "name": "Gemoterapia y las energías del cuerpo.",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\""
+        },
+        {
+            "icon": "img/icons/4.svg",
+            "name": "Curso de Tarot Junguiano: sendero introspectivo.",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\""
+        }
+    ],
+    "Testimonials": [
+        {
+            "img": "img/testimonials/01.jpeg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpeg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpeg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [
+        {
+            "img": "img/cangorosa/cangorosa1.jpeg",
+            "name": "Agustina Ferrero",
+            "job": "Profesora de Hatha Yoga y yoga terapéutico. Instructora de Tai Chi"
+        },
+        {
+            "img": "img/cangorosa/cangorosa2.jpeg",
+            "name": "Florencia Zappelli ",
+            "job": "Instructora de Yoga deportivo"
+        }
+    ],
+    "Contact": {
+        "address": "Posadas, Misiones",
+        "phone": "543764673216",
+        "email": "email@email.com",
+        "facebook": "https://www.facebook.com/isolnaciente/",
+        "instagram": "https://www.instagram.com/instituto_sol_naciente/?hl=es&__coig_restricted=1"
+    }
+}
