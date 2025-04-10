@@ -1,6 +1,5 @@
 import React from 'react'
 import styled from 'styled-components'
-import {Animated} from "react-animated-css";
 
 const StyledBox = styled.div`
     display: flex;

@@ -28,40 +28,8 @@ const StyledLogo = styled.div`
     font-size: 3vw;
     color: white;
 `
-
-const StyledBarsIcon = styled.div`
-    padding: 10px;
-    cursor: pointer;
-    margin-right: 20px;
-    svg{
-        width: 2.5vw;
-        fill: white;
-    }
-`
-
-const StyledItemsContainer = styled.div`
-    padding: 20px;
-    background-color: #fef3f1;
-    display: flex;
-    flex-direction: column;
-    background-color: rgba(0, 0, 0, .4);
-`
-
-const StyledItem = styled.div`
-    padding: 20px;
-    cursor: pointer;
-    font-family: "Raleway", sans-serif;
-    color: #fef3f1;
-    font-size: 2vw;
-    &:hover{
-        text-decoration: underline;
-    }
-`
-
 export const NavBarComision = ( props ) => {
-
-    const [viewItems, setViewItems] = useState(false)
-
+   
     const navigation = useNavigate()
 
     return (

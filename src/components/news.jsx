@@ -1,5 +1,3 @@
-import { Image } from "./image";
-
 export const News = (props) => {
     return (
         <div

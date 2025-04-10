@@ -22,25 +22,6 @@ const StyledMainWelcome = styled.div`
     }
 `;
 
-const StyledWelcomeMessage = styled(Animated)`
-    font-size: 3vw;
-    padding: 20px;
-    color: white;
-    text-align: center;
-    font-family: "Raleway", sans-serif;
-    border-radius: 10px;
-    text-shadow: -2px 2px 18px rgba(255, 255, 255, 0.49);
-`;
-
-const imagesList = [
-    {
-        url: "./img/logo/logoClaudia.jpeg",
-        mensaje: "Claudia Martinez ",
-        entrada: "fadeIn",
-        style: {},
-    },
-];
-
 export const Welcome = () => {
     return (
         <StyledMainWelcome id={"welcome"}>

@@ -8,8 +8,7 @@ import image6 from "../images/gallery/g6.jpeg";
 import image7 from "../images/gallery/g7.jpeg";
 import image8 from "../images/gallery/g8.jpeg";
 import image9 from "../images/gallery/g9.jpeg";
-import image10 from "../images/gallery/g10.jpeg";
-import image11 from "../images/gallery/g11.jpeg";
+
 
 const data = [
     {

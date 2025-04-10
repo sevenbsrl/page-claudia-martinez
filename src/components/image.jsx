@@ -1,5 +1,3 @@
-import imagen from "../iconos/a.svg";
-
 export const Image = ({ title, largeImage, smallImage }) => {
     return (
         <div className="portfolio-item">
