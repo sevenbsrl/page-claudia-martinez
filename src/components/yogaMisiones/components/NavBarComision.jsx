@@ -29,9 +29,7 @@ const StyledLogo = styled.div`
     color: white;
 `
 export const NavBarComision = ( props ) => {
-   
-    const navigation = useNavigate()
-
+       const navigation = useNavigate()
     return (
         <StyledNavBar>
 

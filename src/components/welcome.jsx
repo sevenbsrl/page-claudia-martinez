@@ -1,7 +1,6 @@
 import React from "react";
 import styled from "styled-components";
 import "react-animated-slider/build/horizontal.css";
-import { Animated } from "react-animated-css";
 import image from "../images/logo/logoClaudia.jpeg";
 
 const StyledMainWelcome = styled.div`

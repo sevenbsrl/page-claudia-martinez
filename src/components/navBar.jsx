@@ -32,21 +32,6 @@ const StyledNavBarHeader = styled.div`
     }
 `;
 
-const StyledLogo = styled.div`
-    padding: 10px 20px;
-    cursor: pointer;
-    font-family: "Raleway", sans-serif;
-    font-weight: 400;
-    margin-left: 20px;
-    font-size: 3vw;
-    color: white;
-    @media screen and (max-width: 450px) {
-        & {
-            font-size: 19px;
-        }
-    }
-`;
-
 const StyledItemsContainer = styled.div`
     background-color: #fef3f1;
     display: flex;
