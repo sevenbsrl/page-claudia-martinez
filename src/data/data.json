@@ -1,10 +1,7 @@
 {
-    "Header": {
-        "title": "Bienvenido",
-        "paragraph": "Un lugar para quedarse y nunca irse... Un lugar para quedarse y nunca irse...Un lugar para quedarse y nunca irse...Un lugar para quedarse y nunca irse...Un lugar para quedarse y nunca irse...Un lugar para quedarse y nunca irse...Un lugar para quedarse y nunca irse...Un lugar para quedarse y nunca irse...v"
-    },
     "About": {
-        "paragraph": "Practica yoga al aire libre Traslada tus sesiones de yoga a un espacio abierto y descubrirás cómo aumenta tu bienestar físico y emocional. Absorbe la energía de la naturaleza y renuévate con cada asana (postura) que realices. El lugar que elegimos para la práctica es Candelaria, olvídate de los auriculares y de hacer una selección musical, disfrutarás de todas las melodías que la naturaleza tiene que ofrecerte: el canto de los pájaros, el sonido del viento y de las hojas al moverse. Vitalina Yoga campo te ofrece la experiencia de realizar la practica de Yoga y sentir el aire fresco, incluso el murmullo de la gente al pasar o un coche inesperado son bienvenidos a esta selección de “música ambiental”.",
+        "paragraph": "Soy Claudia Martínez terapeuta holística especializada en la práctica de Yogaterapia para adultos mayores y en la educación. A lo largo de mi trayectoria, abrazo un profundo compromiso con el bienestar y la prevención de la salud holística. He dedicado mi vía profesional a guiar a las personas en su proceso de equilibrio físico y emocional. Mi enfoque terapéutico abarca diversas técnicas holísticas, yoga tradicional y yoga campo experiencia al aire libre y en contacto con la naturaleza en el espacio “Vitalina Yoga campo” en Candelaria Misiones, la meditación, las flores de Bach, técnicas de masaje, reiki entre otras; adaptadas a las necesidades individuales de cada cliente, creando un espacio seguro y de confianza, donde se pueden explorar y superar los desafíos físico y emocionales que enfrentamos al encarar cada día en esta vida.",
+        "another": "Hace 20 años que promuevo la salud holística integral, creando espacios llenos de empatía que promueven en aquellos con quienes trabajo en terapia, la habilidad para conectar con las personas, la naturaleza y los animales  en un nivel de armonía y bienestar. Mis clientes valoran mi enfoque personalizado y sienten un apoyo sólido durante todo el proceso de afirmación y crecimiento personal.Mi compromiso con el cuidado integral de las personas, combinado con mi experiencia, me llevaron a ser una terapeuta dedicada a aquellos que buscan un enfoque holístico integral para su salud y bienestar en el caminar por esta vida.",
         "Why": ["Responsabilidad", "Profesionalismo", "Pasión", "Compromiso"],
         "Why2": [
             "Humildad",
@@ -13,23 +10,7 @@
             "Logro de objetivos"
         ]
     },
-    "News": [
-        {
-            "title": "",
-            "largeImage": "img/news/01.jpeg",
-            "smallImage": "img/news/01.jpeg"
-        },
-        {
-            "title": "",
-            "largeImage": "img/news/02.jpeg",
-            "smallImage": "img/news/02.jpeg"
-        },
-        {
-            "title": "",
-            "largeImage": "img/news/03.jpeg",
-            "smallImage": "img/news/03.jpeg"
-        }
-    ],
+
     "Gallery": [
         {
             "title": "",
@@ -82,70 +63,50 @@
     ],
     "Services": [
         {
-            "icon": "img/icons/1.svg",
-            "name": "Evolucionando al estrés :Mindfulness.",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\""
+            "images": [
+                "/images/services/reiki1.jpg",
+                "/images/services/reiki2.jpg",
+                "/images/services/reiki3.jpg"
+            ],
+            "time": 3500,
+            "name": "Reiki:",
+            "type": "TALLER CONTINUO. De formación todo el año con certificación oficial de la Alianza Argentina de Maestros de reiki.",
+            "text": "El proceso de Reiki implica que el practicante coloque sus manos suavemente sobre o cerca del cuerpo del receptor, con el objetivo de canalizar la energía curativa hacia las áreas donde se encuentren desequilibrios o bloqueos. El Reiki ayuda a promover la relajación, reducir el estrés y estimular la capacidad natural del cuerpo para sanar."
         },
         {
-            "icon": "img/icons/2.svg",
-            "name": "Reiki .Títulos oficiales de la Alianza Argentina de Reikistas",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\""
+            "images": ["/images/services/meditacion1.jpg"],
+            "name": "Meditación:",
+            "type": "Taller continuo todo el año. Técnicas que son herramientas fundamentales para evolucionar al estrés. ",
+            "text": "La meditación es una práctica que ha sido utilizada durante años en diversas culturas de todo el mundo. Su objetivo principal es cultivar la atención, la concentración, la claridad mental y la tranquilidad. La meditación implica enfocar la mente en un objeto de atención específica, como la respiración, un mantra, una imagen o una sensación, con el fin de entrenar la mente para estar presente y consciente en el momento actual."
+        },
+       
+        {
+            "images": [
+                "/images/services/herbolaria1.png",
+                "/images/services/herbolaria2.png"
+            ],
+            "name": "Herbolaria:",
+            "time": 3200,
+            "type": "Taller continuo.",
+            "text": "La herbolaria y la unión con la naturaleza están estrechamente relacionadas, ya que la misma es una práctica que involucra el uso de plantas y hierbas naturales con propiedades medicinales y terapéuticas, en la interacción respetuosa y sostenible del ser con el entorno natural. Mi propósito es acompañarte y descubrir juntos las propiedades de las hierbas medicinales y su utilización en lo cotidiano."
         },
         {
-            "icon": "img/icons/3.svg",
-            "name": "Gemoterapia y las energías del cuerpo.",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\""
-        },
-        {
-            "icon": "img/icons/4.svg",
-            "name": "Curso de Tarot Junguiano: sendero introspectivo.",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\""
+            "images": ["/images/services/yogaP.jpeg"],
+            "name": "Yoga personalizado.",
+            "type": "",
+            "text": "El yoga personalizado se refiere a una práctica de yoga adaptada específicamente a las necesidades, habilidades y objetivos de una persona en particular. En lugar de seguir una clase de yoga genérica, un instructor de yoga personalizado trabaja directamente con la persona para crear una rutina que se ajuste a sus necesidades y metas específicas."
         }
     ],
-    "Testimonials": [
-        {
-            "img": "img/testimonials/01.jpeg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/02.jpeg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/03.jpeg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        }
-    ],
-    "Team": [
-        {
-            "img": "img/cangorosa/cangorosa1.jpeg",
-            "name": "Agustina Ferrero",
-            "job": "Profesora de Hatha Yoga y yoga terapéutico. Instructora de Tai Chi"
-        },
-        {
-            "img": "img/cangorosa/cangorosa2.jpeg",
-            "name": "Florencia Zappelli ",
-            "job": "Instructora de Yoga deportivo"
-        }
-    ],
+    "Cangorosa": {
+        "title": "Cangorosa: tienda de hierbas y elementos holísticos.",
+        "text1": "Botica de hierbas que acerca a tus días productos orgánicos que se refieren a plantas medicinales y flores, que se cultivan y cosechan siguiendo prácticas agrícolas orgánicas, lo que implica que se cultivan sin el uso de pesticidas, herbicidas, fertilizantes sintéticos u otros productos químicos sintéticos. En lugar de depender de productos químicos, los agricultores orgánicos utilizan métodos naturales y sostenibles para nutrir y proteger las plantas. Aquí hay algunas características clave de las hierbas orgánicas: Cultivo sin químicos sintéticos. En la agricultura orgánica, se evita el uso de pesticidas químicos, herbicidas y fertilizantes sintéticos. En su lugar, se recurre a prácticas como la rotación de cultivos, el uso de compost orgánico y el control de plagas mediante métodos naturales.",
+        "text2": "Cangorosa basa su catálogo herbolario en el Ayurveda, un antiguo sistema de medicina originado en la India hace miles de años, para equilibrar los doshas principios fundamentales que gobiernan los procesos fisiológicos y psicológicos en el cuerpo y la mente de una persona., y son las combinaciones de los cinco elementos (tierra, agua, fuego, aire y éter) y sus cualidades asociadas. Estos doshas (Vata, Pitta y Kapha) desempeñan un papel crucial en la comprensión de la constitución de un individuo, o Prakriti, y sus características físicas, mentales y emocionales. La combinación terapéutica de estas hierbas desempeña un papel fundamental en la promoción del equilibrio y la armonía en el cuerpo y la mente según los principios ayurvédicos."
+    },
+    "BlaBla": {
+        "title": "Bla Bla: educación holística Integral.",
+        "text1": "La educación holística considera a las personas como seres integrales y busca desarrollar todas las dimensiones del ser, incluyendo no solo su intelecto, sino también su aspecto emocional, físico, social y espiritual. Facilitando un ambiente preparado: ordenado, estético, simple, real, donde cada elemento de forma armoniosa estimula todos los sentidos de manera agradable.  El aprendizaje y el crecimiento no deben limitarse únicamente al conocimiento académico, sino que deben abarcar la totalidad de la experiencia humana.",
+        "text2": ""
+    },
     "Contact": {
         "address": "Posadas, Misiones",
         "phone": "543764673216",
